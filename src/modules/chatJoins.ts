@@ -12,7 +12,7 @@ composer.on("chat_join_request", async (ctx) => {
   const settings = await getSettings(update.chat.id);
   let approve_or_not, welcome;
   const def_welcome_approve =
-    "Hey {name}, your request to join {chat} has been approved!";
+    "Hey {name}, your request to join {chat} has been ap🔥proved!";
   const def_welcome_decline =
     "Hey {name}, your request to join {chat} has been declined!";
 
