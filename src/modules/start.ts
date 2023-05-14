@@ -22,7 +22,7 @@ composer
       reply_markup: new InlineKeyboard()
         .text(ctx.t("usage-help"), "helper")
         .text("Language 🌐", "setLang").row()
-        .url(ctx.t("💫 updates"), "https://t.me/Bot_cracker"),
+        .url(ctx.t(" updates"), "https://t.me/Bot_cracker"),
       disable_web_page_preview: true,
     });
     await addUser(ctx.from!.id);
@@ -36,7 +36,7 @@ composer.callbackQuery("mainMenu", async (ctx) => {
       reply_markup: new InlineKeyboard()
         .text(ctx.t("usage-help"), "helper")
         .text("Language 🌐", "setLang").row()
-        .url(ctx.t("〽️ updates"), "https://t.me/bot_cracker"),
+        .url(ctx.t("updates"), "https://t.me/bot_cracker"),
       disable_web_page_preview: true,
     },
   );
