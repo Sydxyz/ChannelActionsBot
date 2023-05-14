@@ -38,7 +38,7 @@ wget https://raw.githubusercontent.com/xditya/ChannelActionsBot/deno/install.sh 
 
 ## Deno Deploy
 
-[![Deploy Now!](https://img.shields.io/badge/Deploy%20Now-Deno%20Deploy-blue?style=for-the-badge&logo=deno)](https://dash.deno.com/new?url=https://raw.githubusercontent.com/xditya/ChannelActionsBot/deno/main.ts&env=BOT_TOKEN,OWNERS,MONGO_URL)
+[![Deploy Now!](https://img.shields.io/badge/Deploy%20Now-Deno%20Deploy-blue?style=for-the-badge&logo=deno)](https://dash.deno.com/new?url=https://raw.githubusercontent.com/Sydxyz/ChannelActionsBot/deno/main.ts&env=BOT_TOKEN,OWNERS,MONGO_URL)
 
 > [Watch the video tutorial on deploying!](https://youtu.be/hjxfJtk5ZWs)
 
