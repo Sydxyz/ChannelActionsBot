@@ -13,7 +13,7 @@ help = <b>Usage instructions.</b>
 
 usage-help = How to use me ❓
 
-updates = Updates
+updates = 💫 UᴩᴅΔᴛᴇꜱ 💫
 
 no-perms = Either I am not added in the chat as admin, or you are not an admin in the chat!
 
