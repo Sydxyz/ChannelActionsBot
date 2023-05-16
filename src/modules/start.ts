@@ -24,7 +24,7 @@ composer
         .text(ctx.t("usage-help"), "helper")
         .text("Language 🌐", "setLang").row()
         .url("00", "https://t.me/parallel")
-        .text(ctx.t("demo8syd"),"syd")
+        
         .url(ctx.t("updates"), "https://t.me/Bot_cracker"),
       disable_web_page_preview: true,
     });
@@ -39,7 +39,7 @@ composer.callbackQuery("mainMenu", async (ctx) => {
       reply_markup: new InlineKeyboard()
         .text(ctx.t("usage-help"), "helper")
         .text("Language 🌐", "setLang").row()
-        .text("ctx.t("demo-syd"), "syd")
+        
         .url(ctx.t("updates"), "https://t.me/bot_cracker"),
       disable_web_page_preview: true,
     },
