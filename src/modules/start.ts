@@ -21,10 +21,10 @@ composer
       parse_mode: "HTML",
       reply_markup: new InlineKeyboard()
         .url("✚✖ Δᴅᴅ MΞ T𝕠 Y̲ᴏʊʀ CʜᴀΓ ✖✚","http://t.me/instant_approval_bot?startgroup=true").row()
-        .text(ctx.t("usage-help"), "heper")
+        .text(ctx.t("usage-help"), "helper")
         .text("Language 🌐", "setLang").row()
         .url("00", "https://t.me/parallel")
-        .text(ctx.t("help"),"help")
+        .text(ctx.t("help"),"heper")
         .url(ctx.t("updates"), "https://t.me/Bot_cracker"),
       disable_web_page_preview: true,
     });
