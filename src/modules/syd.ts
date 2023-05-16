@@ -6,7 +6,7 @@ import { Composer, InlineKeyboard } from "grammy/mod.ts";
 const composer = new Composer<MyContext>();
 
 composer
-  .command("help", async (ctx) => {
+  .command("syd", async (ctx) => {
     if (ctx.chat.type != "private" && ctx.match == "by_BotzHub") {
       await ctx.reply("Continue setting me up in PM!", {
         reply_markup: new InlineKeyboard().url(
