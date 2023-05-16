@@ -15,6 +15,8 @@ usage-help = How to use me ❓
 
 demo-syd = De
 
+mrsyd = 77777777
+
 updates = 💫 UᴩᴅΔᴛᴇꜱ 💫
 
 no-perms = Either I am not added in the chat as admin, or you are not an admin in the chat!
