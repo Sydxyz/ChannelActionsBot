@@ -1,5 +1,5 @@
-start-msg = Hi {$user}!
-    <b>I'm Channel Actions Bot</b>, a bot mainly focused on working with the new <a href='https://t.me/telegram/153'>admin approval invite links</a>.
+start-msg = Ⓗ︎ⓔ︎ⓛ︎ⓛ︎ⓞ︎<b> {$user}! </b>
+    <b>Channel Actions Bot</b>, a bot mainly focused on working with the new <a href='https://t.me/telegram/153'>admin approval invite links</a>.
 
     <i>I can</i>:
     - <i>Auto approve new join requests</i>
