@@ -13,9 +13,9 @@ help = <b>Usage instructions.</b>
 
 usage-help = How to use me ❓
 
-demo-syd = Chkkkk
 
-mrsyd = 77777777
+
+
 
 updates = 💫 UᴩᴅΔᴛᴇꜱ 💫
 
