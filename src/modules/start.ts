@@ -26,7 +26,7 @@ composer
         .url("00", "https://t.me/parallel")
         
         .url(ctx.t("updates"), "https://t.me/Bot_cracker").row()
-        .text("***", "syd"),
+        .text(ctx.t("mrsyd"), "syd"),
       disable_web_page_preview: true,
     });
     await addUser(ctx.from!.id);
