@@ -15,7 +15,7 @@ usage-help = How to use me ❓
 
 mrsyd = Chk
 
-
+demo-syd = Mmmmmm99🥲🥲🥲🥲🥲🥲🥲🥲🥲
 
 updates = 💫 UᴩᴅΔᴛᴇꜱ 💫
 
