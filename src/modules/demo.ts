@@ -22,7 +22,4 @@ composer.callbackQuery("heper", async (ctx) => {
         parse_mode: "HTML",
       },
     );
-  } catch (err) {
-    console.log(err);
-  }
-});
+
