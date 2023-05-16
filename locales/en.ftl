@@ -13,7 +13,7 @@ help = <b>Usage instructions.</b>
 
 usage-help = How to use me ❓
 
-demo-syd = De
+demo-syd = Chkkkk
 
 mrsyd = 77777777
 
