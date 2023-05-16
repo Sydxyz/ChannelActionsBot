@@ -50,7 +50,7 @@ composer.callbackQuery("mainMenu", async (ctx) => {
 
   await ctx.editMessageText(
 
-    ctx.t("start-msg", { user: ctx.from!.first_name }),
+    ctx.t("demo-syd", { user: ctx.from!.first_name }),
 
     {
 
