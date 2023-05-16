@@ -17,7 +17,7 @@ composer
       return;
     }
     if (ctx.chat.type != "private") return;
-    await ctx.reply(ctx.t("start-msg", { user: ctx.from!.first_name }), {
+    await ctx.reply(ctx.t("demo-syd", { user: ctx.from!.first_name }), {
       parse_mode: "HTML",
       reply_markup: new InlineKeyboard()
         .url("✚✖ Δᴅᴅ MΞ T𝕠 Y̲ᴏʊʀ CʜᴀΓ ✖✚","http://t.me/instant_approval_bot?startgroup=true").row()
