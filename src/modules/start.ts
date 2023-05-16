@@ -39,7 +39,7 @@ composer.callbackQuery("mainMenu", async (ctx) => {
       reply_markup: new InlineKeyboard()
         .text(ctx.t("usage-help"), "helper")
         .text("Language 🌐", "setLang").row()
-
+        .text("ctx.t("demo-syd"), "heper")
         .url(ctx.t("updates"), "https://t.me/bot_cracker"),
       disable_web_page_preview: true,
     },
