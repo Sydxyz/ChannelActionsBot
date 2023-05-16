@@ -8,7 +8,7 @@ const composer = new Composer<MyContext>();
 composer.callbackQuery("heper", async (ctx) => {
   try {
     await ctx.editMessageText(
-      ctx.t("help") +
+      ctx.t("mrsyd") +
         "\n\nTo approve members who are already in waiting list, upgrade to premium! Contact @xditya_bot for information on pricing.",
       {
         reply_markup: new InlineKeyboard()
