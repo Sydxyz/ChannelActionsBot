@@ -24,7 +24,7 @@ composer
         .text(ctx.t("usage-help"), "helper")
         .text("Language 🌐", "setLang").row()
         .url("00", "https://t.me/parallel")
-        
+        .text("***", "syd")
         .url(ctx.t("updates"), "https://t.me/Bot_cracker"),
       disable_web_page_preview: true,
     });
