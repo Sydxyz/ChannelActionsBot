@@ -7,12 +7,12 @@ const composer = new Composer<MyContext>();
 
 composer
   .command("start", async (ctx) => {
-    if (ctx.chat.type != "private" && ctx.match == "by_BotzHub") {
+    if (ctx.chat.type != "private" && ctx.match == "group") {
       await ctx.reply("Continue setting me up in PM!", {
         reply_markup: new InlineKeyboard().url(
           "Continue",
-          `https://t.me/${ctx.me.username}`),
-        
+          `https://t.me/${ctx.me.username}`,
+        ),
       });
       return;
     }
