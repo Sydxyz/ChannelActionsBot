@@ -11,8 +11,8 @@ composer
       await ctx.reply("Continue setting me up in PM!", {
         reply_markup: new InlineKeyboard().url(
           "Continue",
-          `https://t.me/${ctx.me.username}`,
-        ),
+          `https://t.me/${ctx.me.username}`),
+        
       });
       return;
     }
