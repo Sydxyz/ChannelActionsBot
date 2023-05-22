@@ -61,7 +61,7 @@ composer.callbackQuery("mainMenu", async (ctx) => {
         .text(ctx.t("usage-help"), "helper")
 
         .text("Langu😁😁age 🌐", "setLang").row()
-        . text("G◎ ʙᴀᴄᴋ ","mainmenu")
+        . text("G◎ ʙᴀᴄᴋ ","mainMenu")
        
 
         .url(ctx.t("updates"), "https://t.me/bot_cracker"),
