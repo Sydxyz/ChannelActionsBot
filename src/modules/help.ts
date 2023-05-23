@@ -49,6 +49,7 @@ composer.callbackQuery(/select_(.*)/, async (ctx) => {
     {
       reply_markup: new Keyboard().requestChat(
         `Select the ${channelOrGroup}`,
+         `h´,
         1,
         {
           chat_is_channel: channelOrGroup == "channel",
