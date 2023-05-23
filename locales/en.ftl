@@ -15,8 +15,9 @@ usage-help = How to use me ❓
 
 mrsyd = DΞᴍᴏ LɪИᴋ 🫠
 
-demo-syd = TʜΞʀᴇ Δʀᴇ 4 ʟɪɴᴋꜱ Gɪᴠᴇɴ Bᴇʟᴏᴡ Aɴᴅ Oɴᴇ ᴏꜰ Tʜᴇᴍ Iꜱ Tʜᴇ Rᴇᴀʟ OɴΞ. Iᴛ'ꜱ Uᴩ Tᴏ Yᴏᴜ, Tᴏ Fɪɴᴅ Tʜᴇ CᴏʀʀΞᴄᴛ Oɴᴇ. BᴇᴛᴛΞʀ ᴛᴏ ʀᴇqᴜᴇѦᴛ Δʟʟ Tʜᴇ Lɪɴᴋꜱ☺️. Oʀ Yᴏᴜ CᴀИ Cʜᴇᴄᴋ Yᴏᴜʀ LЦCҜ😉
-
+demo-syd = <b>🎗️ Dᴇᴍᴏ LɪИᴋꜱ 🎗️
+           TʜΞʀᴇ Δʀᴇ 4 ʟɪɴᴋꜱ Gɪᴠᴇɴ Bᴇʟᴏᴡ Aɴᴅ Oɴᴇ ᴏꜰ Tʜᴇᴍ Iꜱ Tʜᴇ Rᴇᴀʟ OɴΞ. Iᴛ'ꜱ Uᴩ Tᴏ Yᴏᴜ, Tᴏ Fɪɴᴅ Tʜᴇ CᴏʀʀΞᴄᴛ Oɴᴇ. BᴇᴛᴛΞʀ ᴛᴏ ʀᴇqᴜᴇѦᴛ Δʟʟ Tʜᴇ Lɪɴᴋꜱ☺️. Oʀ Yᴏᴜ CᴀИ Cʜᴇᴄᴋ Yᴏᴜʀ LЦCҜ😉
+           </b>
 updates = 💫 UᴩᴅΔᴛᴇꜱ 💫
 
 no-perms = Either I am not added in the chat as admin, or you are not an admin in the chat!
