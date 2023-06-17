@@ -3,9 +3,9 @@ start-msg = <b> Ⓗ︎ⓔ︎ⓛ︎ⓛ︎ⓞ︎ {$user}! </b>
 
     <i>I can</i>:
     - <i>Auto approve new join requests.</i>
-    - <i>Auto Decline New Join Requests.
+    - Auto Decline New Join Requests.
     - Sᴇᴛ Wᴇʟᴄᴏᴍᴇ MᴇꜱꜱѦɢᴇ [💫 Pʀ0 FᴇᴀΓᴜʀᴇ 💫]
-</i>
+
 
     <code>Click the below button to know how to use me!</code>
 
