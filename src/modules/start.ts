@@ -69,11 +69,12 @@ composer.callbackQuery("mainMenu", async (ctx) => {
       parse_mode: "HTML",
 
       reply_markup: new InlineKeyboard()
-
+        .url("1️⃣","https://t.me/+3-nuV_9INIg0MDY1")
+        .url("2️⃣","h")
         .text(ctx.t("usage-help"), "helper")
 
         .text("🪩 Lᴀɴɢᴜᴀɢᴇ 🌐", "setLang").row()
-        . text("G◎ ʙᴀᴄᴋ ","mainMenu")
+        .text("G◎ ʙᴀᴄᴋ ","mainMenu")
        
 
         .url(ctx.t("updates"), "https://t.me/bot_cracker"),
