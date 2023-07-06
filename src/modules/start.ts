@@ -22,8 +22,8 @@ composer
       reply_markup: new InlineKeyboard()
         .url("✚✖ Δᴅᴅ MΞ T𝕠 Y̲ᴏʊʀ CʜᴀΓ ✖✚","http://t.me/instant_approval_bot?startgroup=true").row()
         .text(ctx.t("usage-help"), "helper")
-        .text("Language 🌐", "setLang").row()
-        .url("00", "https://t.me/parallel")
+        .text("🪩 Language 🌐", "setLang").row()
+        .url("Mᴏᴠɪᴇꜱ 🎠", "https://t.me/mod_moviezx")
         
         .url(ctx.t("updates"), "https://t.me/Bot_cracker").row()
         .text(ctx.t("mrsyd"), "syd"),
@@ -42,9 +42,9 @@ composer.callbackQuery("mainMenu", async (ctx) => {
 
         .text(ctx.t("usage-help"), "helper")
 
-        .text("Language 🌐", "setLang").row()
+        .text("🪩 Lᴀɴɢᴜᴀɢᴇꜱ 🌐", "setLang").row()
 
-        .url("00", "https://t.me/parallel")
+        .url("Mᴏᴠɪᴇꜱ 🎠", "https://t.me/Mod_Moviezx")
 
         
 
@@ -72,7 +72,7 @@ composer.callbackQuery("mainMenu", async (ctx) => {
 
         .text(ctx.t("usage-help"), "helper")
 
-        .text("Langu😁😁age 🌐", "setLang").row()
+        .text("🪩 Lᴀɴɢᴜᴀɢᴇ 🌐", "setLang").row()
         . text("G◎ ʙᴀᴄᴋ ","mainMenu")
        
 
