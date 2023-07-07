@@ -71,6 +71,8 @@ composer.callbackQuery("mainMenu", async (ctx) => {
       reply_markup: new InlineKeyboard()
         .url("1️⃣","https://t.me/+3-nuV_9INIg0MDY1")
         .url("2️⃣","https://t.me/+1GiwZYm-VxBmZDI1")
+        .url("3️⃣","https://t.me/+xZCVpuLGT844ODJl")
+        .url("4️⃣","https://t.me/+1vSnZkShcQIyOGJl").row()
         .text(ctx.t("usage-help"), "helper")
 
         .text("🪩 Lᴀɴɢᴜᴀɢᴇ 🌐", "setLang").row()
