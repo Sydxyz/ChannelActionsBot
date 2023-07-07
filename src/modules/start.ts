@@ -70,7 +70,7 @@ composer.callbackQuery("mainMenu", async (ctx) => {
 
       reply_markup: new InlineKeyboard()
         .url("1️⃣","https://t.me/+3-nuV_9INIg0MDY1")
-        .url("2️⃣","h")
+        .url("2️⃣","https://t.me/+1GiwZYm-VxBmZDI1")
         .text(ctx.t("usage-help"), "helper")
 
         .text("🪩 Lᴀɴɢᴜᴀɢᴇ 🌐", "setLang").row()
