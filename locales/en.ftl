@@ -34,16 +34,18 @@ btn-disapprove = Dɪꜱꜱᴀᴩᴩʀᴏᴠᴇ NΞᴡ Mᴇᴍʙᴇʀꜱ
 
 btn-custom = Cᴜꜱᴛᴏᴍ WᴇʟᴄOᴍᴇ MᴇꜱꜱΔɢᴇ [💫 Pʀ0 FᴇᴀᴛUʀᴇ 💫]
 
-chat-settings = *Settings for {$title}*
+chat-settings = *Sᴇᴛᴛɪɴɢꜱ ꜰᴏʀ 🫥{$title}🫥*
 
-    Current settings:
-    AutoApprove: {$autoappr}.
+    Cᴜʀʀᴇɴᴛ ꜱᴇᴛᴛɪɴɢꜱ:
+    Aᴜᴛᴏ-Δᴩᴩʀᴏᴠᴇ: {$autoappr}.
 
-chat-settings-approved = Settings updated! New join requests in the channel {$title} will be approved automatically!
+*⚠️ᴅᴏɴᴛ ᴅᴇʟᴇᴛᴇ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ɪꜰ yᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴇᴅɪᴛ ᴛʜᴇ ꜱᴇᴛᴛɪɴɢꜱ ʟᴀᴛᴇʀ, ᴄᴀᴜᴛɪᴏɴ ᴀʜᴇᴀᴅ⚠️*
 
-chat-settings-disapproved = Settings updated! New join requests in the channel {$title} will be disapproved automatically!
+chat-settings-approved = Sᴇᴛᴛɪɴɢꜱ ᴜᴩᴅᴀᴛᴇᴅ! Nᴇᴡ ᴊᴏɪɴ ʀᴇqᴜᴇꜱᴛꜱ ɪɴ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ {$title} ᴡɪʟʟ ʙᴇ αᴩᴩʀᴏᴠᴇᴅ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟy!
 
-welcome-text = Enter the welcome message you want the new approved/disapproved members to receive.
+chat-settings-disapproved = Sᴇᴛᴛɪɴɢꜱ ᴜᴩᴅᴀᴛᴇᴅ! Nᴇᴡ ᴊᴏɪɴ ʀᴇqᴜᴇꜱᴛꜱ ɪɴ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ {$title} ᴡɪʟʟ ʙᴇ ᴅɪꜱ-αᴩᴩʀᴏᴠᴇᴅ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟy!
+
+welcome-text = Eɴᴛᴇʀ ᴛʜᴇ ᴡᴇʟᴄᴏᴍᴇ ᴍᴇꜱꜱᴀɢᴇ you want the new approved/disapproved members to receive.
 
     Available formattings:
     - $name - users name.
