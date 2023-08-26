@@ -1,7 +1,7 @@
-start-msg = <b> Ⓗ︎ⓔ︎ⓛ︎ⓛ︎ⓞ︎ {$user}! </b>
-    <b> My Nᴀᴍᴇ Iꜱ  Channel Actions Bot</b>, a bot mainly focused on working with the new <a href='https://t.me/telegram/153'>admin approval invite links</a>.
+start-msg = <b> Hᴇʟʟ0 {$user}! </b>
+    <b> My Nᴀᴍᴇ Iꜱ Iɴꜱᴛᴀɴᴛ Aᴩᴩʀᴏᴠᴀʟ Bᴏᴛ 🌊</b>, ᴀ ʙᴏᴛ ᴡʜɪᴄʜ ᴄΔɴ Aᴜᴛᴏ-Aᴩᴩʀᴏᴠᴇ Uᴩᴄᴏᴍɪɴɢ ᴊᴏɪɴɪɴɢ ʀᴇqᴜᴇꜱᴛ. Jᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴡɪᴛʜ ɪɴᴠɪᴛᴇ ᴜꜱᴇʀꜱ ᴩᴇʀᴍɪꜱꜱɪᴏɴ ꜰᴏʀ ᴛʜΞ ᴀᴩᴩʀᴏᴠᴀʟ ᴏF ɪɴᴠɪᴛᴇ lɪɴᴋꜱ links.
 
-    <i>I can</i>:
+    <i>Δᴅᴠᴀɴᴛᴀɢᴇ</i>:
     - <i>Auto approve new join requests.</i>
     - Auto Decline New Join Requests.
     - Sᴇᴛ Wᴇʟᴄᴏᴍᴇ MᴇꜱꜱѦɢᴇ [💫 Pʀ0 FᴇᴀΓᴜʀᴇ 💫]
@@ -26,11 +26,11 @@ updates = 💫 UᴩᴅΔᴛᴇꜱ 💫
 
 no-perms = Either I am not added in the chat as admin, or you are not an admin in the chat!
 
-not-admin = You are not an admin in the chat!
+not-admin = Yᴏᴜ ᴀʀᴇ ɴᴏᴛ Aɴ Δᴅᴍɪɴ ᴏɴ ᴛʜᴀᴛ ᴄʜᴀᴛ, ᴅᴏɴᴛ ᴛʀʏ ᴛᴏ ꜱᴇᴛᴛ∇ᴩ ᴍᴇ ᴏɴ ᴏᴛʜᴇʀꜱ ᴄʜαᴛ😙😙!
 
-btn-approve = Aᴩᴩʀᴏᴠᴇ Nᴇᴡ Mᴇᴍʙᴇʀꜱ
+btn-approve =✔️ Aᴩᴩʀᴏᴠᴇ Nᴇᴡ Mᴇᴍʙᴇʀꜱ ✔️
 
-btn-disapprove = Dɪꜱꜱᴀᴩᴩʀᴏᴠᴇ NΞᴡ Mᴇᴍʙᴇʀꜱ
+btn-disapprove =✖️ Dɪꜱꜱᴀᴩᴩʀᴏᴠᴇ NΞᴡ Mᴇᴍʙᴇʀꜱ ✖️
 
 btn-custom = Cᴜꜱᴛᴏᴍ WᴇʟᴄOᴍᴇ MᴇꜱꜱΔɢᴇ [💫 Pʀ0 FᴇᴀᴛUʀᴇ 💫]
 
@@ -39,7 +39,7 @@ chat-settings = *Sᴇᴛᴛɪɴɢꜱ ꜰᴏʀ 🫥{$title}🫥*
     Cᴜʀʀᴇɴᴛ ꜱᴇᴛᴛɪɴɢꜱ:
     Aᴜᴛᴏ-Δᴩᴩʀᴏᴠᴇ: {$autoappr}.
 
-⚠️*ᴅᴏɴᴛ ᴅᴇʟᴇᴛᴇ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ɪꜰ yᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴇᴅɪᴛ ᴛʜᴇ ꜱᴇᴛᴛɪɴɢꜱ ʟᴀᴛᴇʀ, ᴄᴀᴜᴛɪᴏɴ ᴀʜᴇᴀᴅ⚠️*
+<b>⚠️ᴅᴏɴᴛ ᴅᴇʟᴇᴛᴇ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ɪꜰ yᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴇᴅɪᴛ ᴛʜᴇ ꜱᴇᴛᴛɪɴɢꜱ ʟᴀᴛᴇʀ, ᴄᴀᴜᴛɪᴏɴ ᴀʜᴇᴀᴅ⚠️</b>
 
 chat-settings-approved = Sᴇᴛᴛɪɴɢꜱ ᴜᴩᴅᴀᴛᴇᴅ! Nᴇᴡ ᴊᴏɪɴ ʀᴇqᴜᴇꜱᴛꜱ ɪɴ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ {$title} ᴡɪʟʟ ʙᴇ αᴩᴩʀᴏᴠᴇᴅ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟy!
 
@@ -47,7 +47,7 @@ chat-settings-disapproved = Sᴇᴛᴛɪɴɢꜱ ᴜᴩᴅᴀᴛᴇᴅ! Nᴇᴡ �
 
 welcome-text = Eɴᴛᴇʀ ᴛʜᴇ ᴡᴇʟᴄᴏᴍᴇ ᴍᴇꜱꜱᴀɢᴇ you want the new approved/disapproved members to receive.
 
-    Available formattings:
+    Aᴠᴀɪʟᴀʙʟᴇ formattings:
     - $name - users name.
     - $chat - chat title.
 
