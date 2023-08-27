@@ -2,9 +2,9 @@ start-msg = <b> Hᴇʟʟ0 {$user}! </b>
     <b> My Nᴀᴍᴇ Iꜱ Iɴꜱᴛᴀɴᴛ Aᴩᴩʀᴏᴠᴀʟ Bᴏᴛ 🌊</b>, ᴀ ʙᴏᴛ ᴡʜɪᴄʜ ᴄΔɴ Aᴜᴛᴏ-Aᴩᴩʀᴏᴠᴇ Uᴩᴄᴏᴍɪɴɢ ᴊᴏɪɴɪɴɢ ʀᴇqᴜᴇꜱᴛ. Jᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴡɪᴛʜ ɪɴᴠɪᴛᴇ ᴜꜱᴇʀꜱ ᴩᴇʀᴍɪꜱꜱɪᴏɴ ꜰᴏʀ ᴛʜΞ ᴀᴩᴩʀᴏᴠᴀʟ ᴏF ɪɴᴠɪᴛᴇ lɪɴᴋꜱ links.
 
     <i>Δᴅᴠᴀɴᴛᴀɢᴇ</i>:
-    - <i>Auto approve new join requests.</i>
-    - Auto Decline New Join Requests.
-    - Sᴇᴛ Wᴇʟᴄᴏᴍᴇ MᴇꜱꜱѦɢᴇ [💫 Pʀ0 FᴇᴀΓᴜʀᴇ 💫]
+    <b>- Aᴜᴛᴏ ꪖᴄᴄᴇᴩᴛ Nᴇᴡ Jᴏɪɴ RᴇＱᴜᴇꜱᴛ.
+    - Aᴜᴛᴏ R̲ᴇᴊᴇᴄᴛ Nᴇᴡ Jᴏɪɴ RᴇＱᴜᴇꜱᴛ.
+    - Sᴇᴛ Wᴇʟᴄᴏᴍᴇ MᴇꜱꜱѦɢᴇ [💫 Pʀ0 FᴇᴀΓᴜʀᴇ 💫].</b>
 
 
     <code>Click the below button to know how to use me!</code>
@@ -39,7 +39,7 @@ chat-settings = *Sᴇᴛᴛɪɴɢꜱ ꜰᴏʀ 🫥{$title}🫥*
     Cᴜʀʀᴇɴᴛ ꜱᴇᴛᴛɪɴɢꜱ:
     Aᴜᴛᴏ-Δᴩᴩʀᴏᴠᴇ: {$autoappr}.
 
-    *⚠️ᴅᴏɴᴛ ᴅᴇʟᴇᴛᴇ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ɪꜰ yᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴇᴅɪᴛ ᴛʜᴇ ꜱᴇᴛᴛɪɴɢꜱ ʟᴀᴛᴇʀ,⚠️ ᴄᴀᴜᴛɪᴏɴ ᴀʜᴇᴀᴅ⚠️*(Better To Pin This Message📌)
+    *⚠️ᴅᴏɴᴛ ᴅᴇʟᴇᴛᴇ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ɪꜰ yᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴇᴅɪᴛ ᴛʜᴇ ꜱᴇᴛᴛɪɴɢꜱ ʟᴀᴛᴇʀ,⚠️ ᴄᴀᴜᴛɪᴏɴ ᴀʜᴇᴀᴅ⚠️*[Better To Pin This Message📌]
 
 chat-settings-approved = Sᴇᴛᴛɪɴɢꜱ ᴜᴩᴅᴀᴛᴇᴅ! Nᴇᴡ ᴊᴏɪɴ ʀᴇqᴜᴇꜱᴛꜱ ɪɴ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ {$title} ᴡɪʟʟ ʙᴇ αᴩᴩʀᴏᴠᴇᴅ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟy!
 
@@ -51,7 +51,7 @@ welcome-text = Eɴᴛᴇʀ ᴛʜᴇ ᴡᴇʟᴄᴏᴍᴇ ᴍᴇꜱꜱᴀɢᴇ yo
     - $name - users name.
     - $chat - chat title.
 
-provide-msg = Please provide a message!
+provide-msg = Pʟᴇᴀꜱᴇ ᴩʀᴏᴠɪᴅᴇ Ⴉ ᴍᴇꜱꜱᴀɢᴇ!
 
 welcome-set = Welcome message set to:
     {$msg}
