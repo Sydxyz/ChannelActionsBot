@@ -22,6 +22,7 @@ composer
       reply_markup: new InlineKeyboard()
         .url("✚✖ Δᴅᴅ MΞ T𝕠 Y̲ᴏʊʀ CʜᴀΓ ✖✚","http://t.me/instant_approval_bot?startgroup=true").row()
         .text(ctx.t("usage-help"), "helper")
+        .text("."),"settsyd")
         .text("🪩 Language 🌐", "setLang").row()
         .url("Mᴏᴠɪᴇꜱ 🎠", "https://t.me/mod_moviezx")
         
@@ -87,6 +88,21 @@ composer.callbackQuery("mainMenu", async (ctx) => {
 
   );
 
+});
+   composer.callbackQuery("settsyd", async (ctx) => {
+  await ctx.editMessageText(
+    ctx.t("sett-syd", )
+
+    {
+
+      parse_mode: "HTML",
+
+      reply_markup: new InlineKeyboard()
+        .text("G◎ ʙᴀᴄᴋ ","mainMenu"
+        .url(ctx.t("updates"), "https://t.me/bot_cracker"),
+      disable_web_page_preview: true,
+    },
+  );
 });
 
 export default composer;
