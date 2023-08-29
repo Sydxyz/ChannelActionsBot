@@ -1,4 +1,5 @@
 start-msg = <b> Hᴇʟʟ0 {$user}! </b>
+    
     <b> My Nᴀᴍᴇ Iꜱ Iɴꜱᴛᴀɴᴛ Aᴩᴩʀᴏᴠᴀʟ Bᴏᴛ 🌊</b>, ᴀ ʙᴏᴛ ᴡʜɪᴄʜ ᴄΔɴ Aᴜᴛᴏ-Aᴩᴩʀᴏᴠᴇ Uᴩᴄᴏᴍɪɴɢ ᴊᴏɪɴɪɴɢ ʀᴇqᴜᴇꜱᴛ. Jᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴡɪᴛʜ ɪɴᴠɪᴛᴇ ᴜꜱᴇʀꜱ ᴩᴇʀᴍɪꜱꜱɪᴏɴ ꜰᴏʀ ᴛʜΞ ᴀᴩᴩʀᴏᴠᴀʟ ᴏF ɪɴᴠɪᴛᴇ lɪɴᴋꜱ links.
 
     <i>Δᴅᴠᴀɴᴛᴀɢᴇ</i>:
@@ -11,7 +12,7 @@ start-msg = <b> Hᴇʟʟ0 {$user}! </b>
 
 help = <b>Usage instructions.</b>
     
-    Add me to your channel as administrator, with "add users" permission, and forward me a message from that chat to set me up!
+    Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜΔɴɴᴇʟ/ɢʀᴏมр ᴀꜱ ᴀᴅᴍɪɴɪꜱᴛᴇʀꜱ, ᴡɪᴛʜ "add users" ᴩᴇʀᴍɪꜱꜱɪᴏɴ, ᴀɴᴅ ꜰᴏʀᴡᴀʀᴅ ᴍᴇ ᴀ ᴍᴇꜱꜱαɢᴇ ꜰʀᴏᴍ ᴛʜᴀᴛ ᴄʜᴀᴛ ᴛᴏ ꜱᴇᴛ ᴍᴇ ᴜᴩ✨!
 
 usage-help = H◎ᴡ Tᴏ ᴜSє м℮ ❓
 
@@ -24,7 +25,7 @@ demo-syd = <b>🎗️ Dᴇᴍᴏ LɪИᴋꜱ 🎗️ ;
            </b>
 updates = 💫 UᴩᴅΔᴛᴇꜱ 💫
 
-no-perms = Either I am not added in the chat as admin, or you are not an admin in the chat!
+no-perms = Eɪᴛʜᴇʀ I ᴀᴍ ɴ0ᴛ ᴀᴅᴅᴇᴅ ɪɴ ᴛʜᴇ ᴄʜᴀᴛ ᴀꜱ ᴀɴ Δᴅᴍɪɴ, ᴏʀ yᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴀɴ Δᴅᴍɪɴ ɪɴ ᴛʜᴀᴛ ᴄʜᴀᴛ😙🤪!
 
 not-admin = Yᴏᴜ ᴀʀᴇ ɴᴏᴛ Aɴ Δᴅᴍɪɴ ᴏɴ ᴛʜᴀᴛ ᴄʜᴀᴛ, ᴅᴏɴᴛ ᴛʀʏ ᴛᴏ ꜱᴇᴛᴛ∇ᴩ ᴍᴇ ᴏɴ ᴏᴛʜᴇʀꜱ ᴄʜαᴛ😙😙!
 
