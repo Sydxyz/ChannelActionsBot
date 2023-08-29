@@ -21,7 +21,7 @@ composer
       reply_markup: new InlineKeyboard()
         .url("✚✖ Δᴅᴅ MΞ T𝕠 Y̲ᴏʊʀ CʜᴀΓ ✖✚","http://t.me/instant_approval_bot?startgroup=true").row()
         .text(ctx.t("usage-help"), "helper")
-        .text(".","settsyd")
+        .text("🛠 SᴇᴛᴛɪɴGꜱ 🛠","settsyd")
         .text("🪩 Language 🌐", "setLang").row()
         .url("Mᴏᴠɪᴇꜱ 🎠", "https://t.me/mod_moviezx")
         
