@@ -91,7 +91,7 @@ composer.callbackQuery("mainMenu", async (ctx) => {
     {
       parse_mode: "HTML",
       reply_markup: new InlineKeyboard()
-        .text("G◎ ʙᴀᴄᴋ ","mainMenu"
+        .text("G◎ ʙᴀᴄᴋ ","mainMenu")
         .url(ctx.t("updates"), "https://t.me/bot_cracker"),
       disable_web_page_preview: true,
     },
