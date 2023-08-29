@@ -21,10 +21,10 @@ composer
       reply_markup: new InlineKeyboard()
         .url("✚✖ Δᴅᴅ MΞ T𝕠 Y̲ᴏʊʀ CʜᴀΓ ✖✚","http://t.me/instant_approval_bot?startgroup=true").row()
         .text(ctx.t("usage-help"), "helper")
-        .text("🛠 SᴇᴛᴛɪɴGꜱ 🛠","settsyd")
+        
         .text("🪩 Language 🌐", "setLang").row()
         .url("Mᴏᴠɪᴇꜱ 🎠", "https://t.me/mod_moviezx")
-        
+        .text("🛠 SᴇᴛᴛɪɴGꜱ 🛠","settsyd")
         .url(ctx.t("updates"), "https://t.me/Bot_cracker").row()
         .text(ctx.t("mrsyd"), "syd"),
       disable_web_page_preview: true,
@@ -41,9 +41,10 @@ composer.callbackQuery("mainMenu", async (ctx) => {
         .url("✚✖ Δᴅᴅ MΞ T𝕠 Y̲ᴏʊʀ CʜᴀΓ ✖✚","http://t.me/instant_approval_bot?startgroup=true").row()
 
         .text(ctx.t("usage-help"), "helper")
-        .text(".","settsyd")
+        
         .text("🪩 Lᴀɴɢᴜᴀɢᴇꜱ 🌐", "setLang").row()
         .url("Mᴏᴠɪᴇꜱ 🎠", "https://t.me/Mod_Moviezx")
+        .text("🛠 SᴇᴛᴛɪɴGꜱ 🛠","settsyd")
         .url(ctx.t("updates"), "https://t.me/Bot_cracker").row()
 
         .text(ctx.t("mrsyd"), "syd"),
