@@ -1,6 +1,5 @@
 import { MyContext } from "../core/types.ts";
 import { addUser } from "../database/usersDb.ts";
-
 import { Composer, InlineKeyboard } from "grammy/mod.ts";
 
 const composer = new Composer<MyContext>();
