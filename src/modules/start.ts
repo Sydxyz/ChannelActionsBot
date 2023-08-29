@@ -86,12 +86,10 @@ composer.callbackQuery("mainMenu", async (ctx) => {
 });
    composer.callbackQuery("settsyd", async (ctx) => {
   await ctx.editMessageText(
-    ctx.t("sett-syd", )
+    ctx.t("sett-syd"),
 
     {
-
       parse_mode: "HTML",
-
       reply_markup: new InlineKeyboard()
         .text("G◎ ʙᴀᴄᴋ ","mainMenu"
         .url(ctx.t("updates"), "https://t.me/bot_cracker"),
