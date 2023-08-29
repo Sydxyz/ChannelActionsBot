@@ -24,7 +24,7 @@ composer
         
         .text("🪩 Language 🌐", "setLang").row()
         .url("Mᴏᴠɪᴇꜱ 🎠", "https://t.me/mod_moviezx")
-        .text("🛠 SᴇᴛᴛɪɴGꜱ 🛠","settsyd")
+        .text("🛠 SᴇᴛᴛɪɴGꜱ","settsyd")
         .url(ctx.t("updates"), "https://t.me/Bot_cracker").row()
         .text(ctx.t("mrsyd"), "syd"),
       disable_web_page_preview: true,
@@ -44,7 +44,7 @@ composer.callbackQuery("mainMenu", async (ctx) => {
         
         .text("🪩 Lᴀɴɢᴜᴀɢᴇꜱ 🌐", "setLang").row()
         .url("Mᴏᴠɪᴇꜱ 🎠", "https://t.me/Mod_Moviezx")
-        .text("🛠 SᴇᴛᴛɪɴGꜱ 🛠","settsyd")
+        .text("🛠 SᴇᴛᴛɪɴGꜱ","settsyd")
         .url(ctx.t("updates"), "https://t.me/Bot_cracker").row()
 
         .text(ctx.t("mrsyd"), "syd"),
