@@ -23,8 +23,8 @@ composer
         .text(ctx.t("usage-help"), "helper")
         
         .text("🪩 Language 🌐", "setLang").row()
-        .url("Mᴏᴠɪᴇꜱ 🎠", "https://t.me/mod_moviezx")
-        .text("🛠 SᴇᴛᴛɪɴGꜱ","settsyd")
+        .url("🎠 Mᴏᴠɪᴇꜱ", "https://t.me/mod_moviezx")
+        .text("SᴇᴛᴛɪɴGꜱ","settsyd")
         .url(ctx.t("updates"), "https://t.me/Bot_cracker").row()
         .text(ctx.t("mrsyd"), "syd"),
       disable_web_page_preview: true,
