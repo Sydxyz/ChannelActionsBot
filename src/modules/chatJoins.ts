@@ -46,7 +46,7 @@ composer.on("chat_join_request", async (ctx) => {
     return;
   }
 
-  welcome += "\n\nSᴇɴᴅ <a href='http://t.me/Instant_Approval_Bot?start=BATCH'>SᴛΔʀᴛ</a> ɪꜰ ʏᴏᴜ ᴡαɴᴛ ᴛᴏ ᴋɴᴏᴡ more! @Syd_Xyz";
+  welcome += "\n\nSᴇɴᴅ /StArt ɪꜰ ʏᴏᴜ ᴡαɴᴛ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ....! 🎐🎐";
   welcome = welcome.replace("{name}", update.from.first_name).replace(
     "{chat}",
     update.chat.title,
@@ -63,7 +63,7 @@ composer.on("chat_join_request", async (ctx) => {
     );
   } catch (error) {
     if (error.error_code == 403) return;
-    console.log("Error while sending a message: ", error.message);
+    console.log("Eʀʀᴏʀ ᴡʜɪʟᴇ ꜱᴇɴᴅɪɴ' ᴀ ᴍᴇꜱꜱᴀɢᴇ #Error : ", error.message);
     return;
   }
 });
