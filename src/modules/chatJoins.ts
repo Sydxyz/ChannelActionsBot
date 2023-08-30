@@ -12,9 +12,9 @@ composer.on("chat_join_request", async (ctx) => {
   const settings = await getSettings(update.chat.id);
   let approve_or_not, welcome;
   const def_welcome_approve =
-    "Hey {name}, your request to join {chat} has been ap🔥proved!";
+    "Hᴇʏ >{name}<, ʏᴏᴜʀ ʀᴇqᴜᴇꜱᴛ ᴛᴏ ᴊᴏɪɴ ᴏɴ {chat} ʜᴀꜱ ʙᴇᴇɴ Δᴩᴩʀᴏᴠᴇᴅ ɪɴꜱᴛᴀɴᴛʟУ!";
   const def_welcome_decline =
-    "Hey {name}, your request to join {chat} has been declined!";
+    "Hᴇʏ >{name}<, ʏᴏᴜʀ ʀᴇqᴜᴇꜱᴛ ᴛᴏ ᴊᴏɪɴ ᴏɴ {chat} ʜᴀꜱ ʙᴇᴇɴ Dᴇᴄʟɪɴᴇᴅ ɪɴꜱᴛᴀɴᴛʟУ! Sᴏʀʀʏ 🫠, ᴀᴅᴍɪɴ ʜᴀᴅ ᴛᴏʟᴅ ᴍᴇ ᴛᴏ ᴅᴏ ᴛʜɪꜱ😑";
 
   if (settings == null) {
     approve_or_not = true;
@@ -46,7 +46,7 @@ composer.on("chat_join_request", async (ctx) => {
     return;
   }
 
-  welcome += "\n\nSend /start to know more! @Syd_Xyz";
+  welcome += "\n\nSᴇɴᴅ <a href='http://t.me/Instant_Approval_Bot?start=BATCH'>SᴛΔʀᴛ</a> ɪꜰ ʏᴏᴜ ᴡαɴᴛ ᴛᴏ ᴋɴᴏᴡ more! @Syd_Xyz";
   welcome = welcome.replace("{name}", update.from.first_name).replace(
     "{chat}",
     update.chat.title,
