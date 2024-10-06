@@ -19,11 +19,11 @@ composer
     await ctx.reply(ctx.t("start-msg", { user: ctx.from!.first_name }), {
       parse_mode: "HTML",
       reply_markup: new InlineKeyboard()
-        .url("✚✖ Δᴅᴅ MΞ T𝕠 Y̲ᴏʊʀ CʜᴀΓ ✖✚","http://t.me/instant_approval_bot?startgroup=true").row()
+        .url("✚✖ Δᴅᴅ Mᴇ Tᴏ Y̲ᴏʊʀ CʜᴀΓ ✖✚","http://t.me/instant_approval_bot?startgroup=true").row()
         .text(ctx.t("usage-help"), "helper")
         
         .text("🪩 Language 🌐", "setLang").row()
-        .url("🎠 Mᴏᴠɪᴇꜱ", "https://t.me/mod_moviezx")
+        .url("🎠 Mᴏᴠɪᴇꜱ", "https://t.me/mod_moviez_x")
         .text("SᴇᴛᴛɪɴGꜱ","settsyd")
         .url(ctx.t("updates"), "https://t.me/Bot_cracker").row()
         .text(ctx.t("mrsyd"), "syd"),
@@ -38,12 +38,12 @@ composer.callbackQuery("mainMenu", async (ctx) => {
     {
       parse_mode: "HTML",
       reply_markup: new InlineKeyboard()
-        .url("✚✖ Δᴅᴅ MΞ T𝕠 Y̲ᴏʊʀ CʜᴀΓ ✖✚","http://t.me/instant_approval_bot?startgroup=true").row()
+        .url("✚✖ Δᴅᴅ Mᴇ Tᴏ Y̲ᴏʊʀ CʜᴀΓ ✖✚","http://t.me/instant_approval_bot?startgroup=true").row()
 
         .text(ctx.t("usage-help"), "helper")
         
         .text("🪩 Lᴀɴɢᴜᴀɢᴇꜱ 🌐", "setLang").row()
-        .url("Mᴏᴠɪᴇꜱ 🎠", "https://t.me/Mod_Moviezx")
+        .url("Mᴏᴠɪᴇꜱ 🎠", "https://t.me/Mod_Moviez_x")
         .text("🛠 SᴇᴛᴛɪɴGꜱ","settsyd")
         .url(ctx.t("updates"), "https://t.me/Bot_cracker").row()
 
