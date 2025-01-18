@@ -46,7 +46,7 @@ composer.on("chat_join_request", async (ctx) => {
     return;
   }
 
-  welcome += "\n\nSᴇɴᴅ /StArt ɪꜰ ʏᴏᴜ ᴡαɴᴛ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ....! 🎐🎐";
+  welcome += "\n\nSᴇɴᴅ /start ɪꜰ ʏᴏᴜ ᴡαɴᴛ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ....! 🎐🎐";
   welcome = welcome.replace("{name}", update.from.first_name).replace(
     "{chat}",
     update.chat.title,
