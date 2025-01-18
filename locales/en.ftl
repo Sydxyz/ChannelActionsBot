@@ -1,5 +1,5 @@
-start-msg = <b> Hᴇʟʟ0 {$user}! </b>
-     Mʏ Nᴀᴍᴇ Iꜱ <b> Iɴꜱᴛᴀɴᴛ Aᴩᴩʀᴏᴠᴀʟ Bᴏᴛ 🌊</b>, 
+start-msg = <b> <blockquote> Hᴇʟʟ0 {$user}! </b>
+     Mʏ Nᴀᴍᴇ Iꜱ <b> Iɴꜱᴛᴀɴᴛ Aᴩᴩʀᴏᴠᴀʟ Bᴏᴛ 🌊</b></blockquote>, 
 
       • A ʙᴏᴛ ᴡʜɪᴄʜ ᴄΔɴ Aᴜᴛᴏ-Aᴩᴩʀᴏᴠᴇ Uᴩᴄᴏᴍɪɴɢ ᴊᴏɪɴɪɴɢ ʀᴇqᴜᴇꜱᴛ. Jᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴡɪᴛʜ ɪɴᴠɪᴛᴇ ᴜꜱᴇʀꜱ ᴩᴇʀᴍɪꜱꜱɪᴏɴ ꜰᴏʀ ᴛʜΞ ᴀᴩᴩʀᴏᴠᴀʟ ᴏF ɪɴᴠɪᴛᴇ lɪɴᴋꜱ links.
 
@@ -7,7 +7,6 @@ start-msg = <b> Hᴇʟʟ0 {$user}! </b>
     <b>- Aᴜᴛᴏ ꪖᴄᴄᴇᴩᴛ Nᴇᴡ Jᴏɪɴ RᴇＱᴜᴇꜱᴛ.
     - Aᴜᴛᴏ R̲ᴇᴊᴇᴄᴛ Nᴇᴡ Jᴏɪɴ RᴇＱᴜᴇꜱᴛ.
     - Sᴇᴛ Wᴇʟᴄᴏᴍᴇ MᴇꜱꜱѦɢᴇ [💫 Pʀ0 FᴇᴀΓᴜʀᴇ 💫].</b>
-
 
     <code>Click the below button to know how to use me!</code>
 
